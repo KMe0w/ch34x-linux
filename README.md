@@ -1,5 +1,5 @@
 # ch34x-linux
-This is a driver for the ch340/341ser usb chipset.
+Mirror from winchiphead
 
 # Installing
 Run this command:
